@@ -1,0 +1,15 @@
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\drinkMaker\bin\Debug\net6.0\drinkMaker.exe
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\drinkMaker\bin\Debug\net6.0\drinkMaker.deps.json
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\drinkMaker\bin\Debug\net6.0\drinkMaker.runtimeconfig.json
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\drinkMaker\bin\Debug\net6.0\drinkMaker.dll
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\drinkMaker\bin\Debug\net6.0\drinkMaker.pdb
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\drinkMaker\obj\Debug\net6.0\drinkMaker.csproj.AssemblyReference.cache
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\drinkMaker\obj\Debug\net6.0\drinkMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\drinkMaker\obj\Debug\net6.0\drinkMaker.AssemblyInfoInputs.cache
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\drinkMaker\obj\Debug\net6.0\drinkMaker.AssemblyInfo.cs
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\drinkMaker\obj\Debug\net6.0\drinkMaker.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\drinkMaker\obj\Debug\net6.0\drinkMaker.dll
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\drinkMaker\obj\Debug\net6.0\refint\drinkMaker.dll
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\drinkMaker\obj\Debug\net6.0\drinkMaker.pdb
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\drinkMaker\obj\Debug\net6.0\drinkMaker.genruntimeconfig.cache
+C:\Users\ethan\Desktop\Coding Dojo\C-sharp\C-sharp-assign\drinkMaker\obj\Debug\net6.0\ref\drinkMaker.dll
